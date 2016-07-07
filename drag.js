@@ -4,4 +4,5 @@ function drag () {
 
 	var dis=0;
 	var disY=0;
+	var aa=123;
 }
